@@ -8,5 +8,5 @@ You have a crypted alphabet. All of letters converted by program to numbers. Wri
 > Opponent need program and `key.txt` file to read crypted message or text.
 
 # What's next?
-- [ ] There is a bug.
-- [ ] Crypt in only 100-999. We can scale it.
+- [ ] There is a bug while adding if key.txt has a lot letter more than default alphabet.
+- [ ] Crypt in only 100-999. Scaleable!
